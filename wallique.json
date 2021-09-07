@@ -1,4 +1,778 @@
 [
+   {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/s10cBzB.png",
+      "name": "Fluid_01",
+      "collections": "Fluids"
+    },
+   {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/HEpuF2K.jpg",
+      "name": "Fluid_02",
+      "collections": "Fluids"
+    },
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/niGUzuH.jpg",
+      "name": "Fluid_03",
+      "collections": "Fluids"
+    },   
+   {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/P4h7DAA.png",
+      "name": "Fluid_04",
+      "collections": "Fluids"
+    },
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/i4thzzS.png",
+      "name": "Fluid_05",
+      "collections": "Fluids"
+    },   
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/lXptQ1g.png",
+      "name": "Fluid_06",
+      "collections": "Fluids"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/wVmjvjG.jpg",
+      "name": "Fluid_07",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/oxrzxVB.png",
+      "name": "Fluid_08",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/fhUMnBO.png",
+      "name": "Fluid_09",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/4YEp42M.png",
+      "name": "Fluid_10",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/L5nGi3D.png",
+      "name": "Fluid_11",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/FkyN2Jl.png",
+      "name": "Fluid_12",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/x33Ce2i.png",
+      "name": "Fluid_13",
+      "collections": "Fluids"
+    } ,
+     {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/plmpKOA.jpg",
+      "name": "Fluid_14",
+      "collections": "Fluids"
+    } ,   
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/Nb4qa6g.png",
+      "name": "Fluid_15",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/vt9yinh.png",
+      "name": "Fluid_16",
+      "collections": "Fluids"
+    },
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/ZUFhSmy.png",
+      "name": "Fluid_17",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/aQLwRU4.jpg",
+      "name": "Fluid_18",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/AcgUmEy.jpg",
+      "name": "Fluid_19",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/NM05Qy5.png",
+      "name": "Fluid_20",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/2l1YgW4.jpg",
+      "name": "Fluid_21",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/bhGOyPn.png",
+      "name": "Fluid_22",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/B17LM2Z.jpg",
+      "name": "Fluid_23",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/LtdJWrC.jpg",
+      "name": "Fluid_24",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/zmWWdiT.png",
+      "name": "Fluid_25",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/sIMJtJT.png",
+      "name": "Fluid_26",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/eSjbP1z.png",
+      "name": "Fluid_27",
+      "collections": "Fluids"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/NE6oU2Q.png",
+      "name": "3D_01",
+      "collections": "3D"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/GfFrN4I.png",
+      "name": "3D_02",
+      "collections": "3D"
+    } ,
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/JzzdAKm.png",
+      "name": "3D_03",
+      "collections": "3D"
+    } ,    
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/fGkaaEf.png",
+      "name": "Abstel_01",
+      "collections": "Abstract"
+    } ,    
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/sRnqVMP.png",
+      "name": "Abstel_02",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/DxHLRmr.png",
+      "name": "Abstel_03",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/k6CKL23.png",
+      "name": "Abstel_04",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/v1m14l0.png",
+      "name": "Abstel_05",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/6z26pIk.png",
+      "name": "Abstel_06",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/c0BkUaQ.png",
+      "name": "Abstel_07",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/8Hjtr4t.png",
+      "name": "Abstract_01",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/izX3Qkr.png",
+      "name": "Abstract_02",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/nhZmgRs.jpg",
+      "name": "Abstract_03",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/KqMWSr5.png",
+      "name": "Abstract_04",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/rhuSwC2.png",
+      "name": "Abstract_05",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/OB9xOG5.png",
+      "name": "Abstract_06",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/Wgbs9c1.png",
+      "name": "Abstract_07",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/GTIwBjJ.png",
+      "name": "Abstract_08",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/1ChzTo7.png",
+      "name": "Abstract_08",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/lhSvGJJ.png",
+      "name": "Abstract_09",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/7X6e8qb.png",
+      "name": "Abstract_10",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/O7Lyaah.png",
+      "name": "Abstract_11",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/JTLLWHX.png",
+      "name": "Abstract_12",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/h7ZBuSZ.png",
+      "name": "Abstract_13",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/EWSQ43c.png",
+      "name": "Abstract_14",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/yA6NfXC.png",
+      "name": "Abstract_15",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/Yd9FL4O.jpg",
+      "name": "Abstract_16",
+      "collections": "Abstract"
+    } ,         
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/aK0KWh1.png",
+      "name": "Abstract_17",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/aWF4g4n.jpg",
+      "name": "Abstract_18",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/JBAOCxc.png",
+      "name": "Abstract_19",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/52aZJx6.png",
+      "name": "Abstract_20",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/k736UwU.png",
+      "name": "Abstract_21",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/BO8T3co.jpg",
+      "name": "Abstract_22",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/q98MwJ1.jpg",
+      "name": "Abstract_23",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/uCLzzB3.png",
+      "name": "Abstract_24",
+      "collections": "Abstract"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/yPn0IUK.png",
+      "name": "View_01",
+      "collections": "Views"
+    } ,  
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/Icwfnyn.png",
+      "name": "View_02",
+      "collections": "Views"
+    } ,      
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/zf38qJn.png",
+      "name": "View_03",
+      "collections": "Views"
+    } ,      
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/UuH6gnQ.png",
+      "name": "View_04",
+      "collections": "Views"
+    } ,      
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/Y3LOlJw.png",
+      "name": "View_05",
+      "collections": "Views"
+    } ,  
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/0rkx5JD.png",
+      "name": "View_06",
+      "collections": "Views"
+    } ,  
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/y82R0mC.png",
+      "name": "Gal_01",
+      "collections": "Gals"
+    } ,     
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/fMprvtC.png",
+      "name": "Gal_02",
+      "collections": "Gals"
+    } ,      
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/qQVwEgd.png",
+      "name": "Gal_03",
+      "collections": "Gals"
+    } ,      
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/hBwT6P7.png",
+      "name": "Glassmorphism_01",
+      "collections": "Glassmorphism"
+    } ,      
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/knkOYix.png",
+      "name": "Glassmorphism_02",
+      "collections": "Glassmorphism"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/jNa4K1L.png",
+      "name": "Glassmorphism_03",
+      "collections": "Glassmorphism"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/bsyVUE9.png",
+      "name": "Gradient_01",
+      "collections": "Gradients"
+    } ,    
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/R2zi4jj.png",
+      "name": "Gradient_02",
+      "collections": "Gradients"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/Ulc3BgQ.png",
+      "name": "Gradient_03",
+      "collections": "Gradients"
+    } ,     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/hTUDmQp.png",
+      "name": "Leaf_01",
+      "collections": "Leaves"
+    } ,    
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/kZaUd2X.png",
+      "name": "Leaf_02",
+      "collections": "Leaves"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/RkDz9aO.png",
+      "name": "Leaf_03",
+      "collections": "Leaves"
+    },
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/EU3DWiG.png",
+      "name": "Leaf_04",
+      "collections": "Leaves"
+    },    
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/uYVZw3T.png",
+      "name": "Leaf_05",
+      "collections": "Leaves"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/K85oCw8.png",
+      "name": "Leaf_06",
+      "collections": "Leaves"
+    },    
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/oMJrItd.png",
+      "name": "Memphis_01",
+      "collections": "Memphis"
+    },
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/DP7hUHV.png",
+      "name": "Memphis_02",
+      "collections": "Memphis"
+    },
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/Aur2m62.png",
+      "name": "Memphis_03",
+      "collections": "Memphis"
+    },    
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/UXlNlcc.png",
+      "name": "Memphis_04",
+      "collections": "Memphis"
+    },    
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/WVSeCaf.png",
+      "name": "Memphis_05",
+      "collections": "Memphis"
+    },    
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/awitBWS.png",
+      "name": "Memphis_06",
+      "collections": "Memphis"
+    },    
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/ntxIPLy.png",
+      "name": "Memphis_07",
+      "collections": "Memphis"
+    },    
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/6qnOzCY.png",
+      "name": "Memphis_08",
+      "collections": "Memphis"
+    },    
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/5ZjS8vX.png",
+      "name": "Minimal_01",
+      "collections": "Minimals"
+    },        
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/YqE9jZN.png",
+      "name": "Minimal_02",
+      "collections": "Minimals"
+    },            
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/cbFF4vF.png",
+      "name": "Minimal_03",
+      "collections": "Minimals"
+    },            
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/5m8y8Gy.png",
+      "name": "Minimal_04",
+      "collections": "Minimals"
+    },            
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/o2LSfAw.png",
+      "name": "Minimal_05",
+      "collections": "Minimals"
+    },            
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/Yu6BiDo.png",
+      "name": "Minimal_06",
+      "collections": "Minimals"
+    },            
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/3DirYRU.png",
+      "name": "Minimal_07",
+      "collections": "Minimals"
+    },            
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/bWr8plp.png",
+      "name": "Pastel_01",
+      "collections": "Pastels"
+    },        
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/k7rfVKU.png",
+      "name": "Pastel_02",
+      "collections": "Pastels"
+    },       
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/CCb2Mlp.png",
+      "name": "Pastel_03",
+      "collections": "Pastels"
+    },       
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/DrdiZmD.png",
+      "name": "Pastel_04",
+      "collections": "Pastels"
+    },       
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/RNrJpyP.png",
+      "name": "Pastel_05",
+      "collections": "Pastels"
+    },       
+    {
+      "author": "Samar Singha",
+      "url": "https://i.imgur.com/4m2EUu9.png",
+      "name": "Pastel_06",
+      "collections": "Pastels"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/SQCyYAL.png",
+      "name": "Scenery_01",
+      "collections": "Sceneries"
+    }, 
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/T7nUiwd.png",
+      "name": "Scenery_02",
+      "collections": "Sceneries"
+    },   
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/YiPeUhE.png",
+      "name": "Scenery_03",
+      "collections": "Sceneries"
+    },    
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/ZCqZIxW.png",
+      "name": "Scenery_04",
+      "collections": "Sceneries"
+    },    
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/RAxfiqw.png",
+      "name": "Shape_01",
+      "collections": "Shapes"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/kxtal7Q.png",
+      "name": "Shape_02",
+      "collections": "Shapes"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/LU2EOQ1.png",
+      "name": "Shape_03",
+      "collections": "Shapes"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/NtEkG8M.png",
+      "name": "Shape_04",
+      "collections": "Shapes"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/CKEz6Ix.png",
+      "name": "Shape_05",
+      "collections": "Shapes"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/VBGh1ul.png",
+      "name": "Shape_06",
+      "collections": "Shapes"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/O3OCtmf.jpg",
+      "name": "Shape_07",
+      "collections": "Shapes"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/7bBysHn.png",
+      "name": "Shape_08",
+      "collections": "Shapes"
+    },     
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/p3tSHeF.png",
+      "name": "Wave_01",
+      "collections": "Waves"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/RdvHtXj.png",
+      "name": "Wave_02",
+      "collections": "Waves"
+    },    
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/QX1mmOG.png",
+      "name": "Wave_03",
+      "collections": "Waves"
+    },        
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/bUDyzpJ.png",
+      "name": "Wave_04",
+      "collections": "Waves"
+    },        
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/f81xRey.png",
+      "name": "Typo_01",
+      "collections": "Typography"
+    },      
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/yWonm17.png",
+      "name": "Typo_02",
+      "collections": "Typography"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/bij3NJq.png",
+      "name": "Typo_03",
+      "collections": "Typography"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/BlCNe1a.png",
+      "name": "Typo_04",
+      "collections": "Typography"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/WMyWcQF.png",
+      "name": "Typo_05",
+      "collections": "Typography"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/jKfNYZX.png",
+      "name": "Typo_06",
+      "collections": "Typography"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/6Z7EWzM.png",
+      "name": "Typo_07",
+      "collections": "Typography"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/QDwcmzD.png",
+      "name": "Typo_08",
+      "collections": "Typography"
+    },       
+    {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/0KIFWVh.png",
+      "name": "Typo_09",
+      "collections": "Typography"
+    },       
     {
       "author": "Introdructor",
       "url": "https://github.com/Introdructor/images/raw/main/wsedits/0001-3911057428_20210706_171536_0000.png",
@@ -15,19 +789,13 @@
       "author": "Introdructor",
       "url": "https://github.com/Introdructor/images/raw/main/wsedits/0001-4071605981_20210709_164452_0000.png",
       "name": "Greeny Leaf",
-      "collections": "Nature"
+      "collections": "Leaves"
      },
     {
       "author": "Introdructor",
       "url": "https://github.com/Introdructor/images/raw/main/wsedits/0001-4443872461_20210717_132345_0000.png",
       "name": "PlayCat",
       "collections": "Cute Animals"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/20210713_200125.jpg",
-       "name": "Sigma",
-       "collections": "Illusions"
      },
      {
        "author": "Introdructor",
@@ -67,50 +835,14 @@
      },
      {
        "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/%40G_Walls_2084_1627381201959.png",
-       "name": "Fluid 1",
-       "collections": "Fluids"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/%40G_Walls_2084_1627381291543.png",
-       "name": "Fluid 2 ",
-       "collections": "Fluids"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/On%20a%20Journey11311_square_1627382096377.png",
-       "name": "Fluid3",
-       "collections": "Fluids"
-     },
-     {
-       "author": "Introdructor",
        "url": "https://github.com/Introdructor/images/raw/main/wsedits/Rectangle(1)_1626860304669.png",
-       "name": "Fluid4",
+       "name": "Fluid_26",
        "collections": "Fluids"
      },
      {
        "author": "Introdructor",
        "url": "https://github.com/Introdructor/images/raw/main/wsedits/Frame%2011.0.png",
        "name": "Incremental",
-       "collections": "Illusions"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/Frame%202music(1).png",
-       "name": "Musical Notes",
-       "collections": "Music"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/Frame%201star.png",
-       "name": "Gradient Star",
-       "collections": "Gradients"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/Frame%204dark.png",
-       "name": "Grainy Shapes",
        "collections": "Shapes"
      },
      {
@@ -129,43 +861,13 @@
        "author": "Introdructor",
        "url": "https://github.com/Introdructor/images/raw/main/wsedits/Rectanglesquare(3).png",
        "name": "Mesh1",
-       "collections": "Mesh Gradients"
+       "collections": "Gradients"
      },
      {
        "author": "Introdructor",
        "url": "https://github.com/Introdructor/images/raw/main/wsedits/bugdroid2.0.png",
        "name": "Bugdroid",
-       "collections": "Neo-GlassMorphism"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/darklamp_2_original.png",
-       "name": "Drak Lamp",
-       "collections": "Illusions"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/dotos_1627324408148.png",
-       "name": "Fluid 4",
-       "collections": "Fluids"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/dotos_glassmorph3.png",
-       "name": "DroidMorphism",
-       "collections": "Neo-GlassMorphism"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/dotos_glassmorph4.png",
-       "name": "DroidMorphism 2",
-       "collections": "Neo-GlassMorphism"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/eberhard-grossgasteiger-MPaoDigkbGA-unsplash_1627364472159.png",
-       "name": "Fluid 5",
-       "collections": "Fluids"
+       "collections": "GlassMorphism"
      },
      {
        "author": "Introdructor",
@@ -175,45 +877,9 @@
      },
      {
        "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/kristaps-ungurs-_xfxnGGa088-unsplash_1626250196607.png",
-       "name": "Fluid 7",
-       "collections": "Fluids"
-     },
-     {
-       "author": "Introdructor",
        "url": "https://github.com/Introdructor/images/raw/main/wsedits/morph.png",
        "name": "Mesh 2",
-       "collections": "Mesh Gradients"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/nature%20reader3.0.png",
-       "name": "Reader",
-       "collections": "Mix"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/peace%20read.png",
-       "name": "Reader 2",
-       "collections": "Mix"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/prism1.0.png",
-       "name": "Droidmophism 2",
-       "collections": "Neo-GlassMorphism"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/prism1.1.png",
-       "name": "Bubbles ",
-       "collections": "Neo-GlassMorphism"
-     },
-     {
-       "author": "Introdructor",
-       "url": "https://github.com/Introdructor/images/raw/main/wsedits/smooth%20blue%20.png",
-       "name": "Fluid 8",
-       "collections": "Fluids"
+       "collections": "Gradients"
      },
      {
        "author": "Introdructor",
