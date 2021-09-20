@@ -1,6 +1,18 @@
 [
    {
       "author": "Introdructor",
+      "url": "https://i.imgur.com/HFQEKG3.png",
+      "name": "Greeny Mountain",
+      "collections": "Sceneries"
+    },
+   {
+      "author": "Introdructor",
+      "url": "https://i.imgur.com/IM6lUsB.png",
+      "name": "Holes",
+      "collections": "Shapes"
+    },
+   {
+      "author": "Introdructor",
       "url": "https://i.imgur.com/HLrRoc1.png",
       "name": "Google Poster Art",
       "collections": "Abstract"
@@ -9,7 +21,7 @@
       "author": "Introdructor",
       "url": "https://i.imgur.com/xA621jv.png",
       "name": "Blue Scenery",
-      "collections": "Scenery"
+      "collections": "Sceneries"
     },
    {
       "author": "Introdructor",
@@ -33,13 +45,13 @@
       "author": "Introdructor",
       "url": "https://i.imgur.com/TBaANtX.png",
       "name": "Dunes_01",
-      "collections": "Scenery"
+      "collections": "Sceneries"
     },
    {
       "author": "Introdructor",
       "url": "https://i.imgur.com/8Ej1CX6.png",
       "name": "Dunes_02",
-      "collections": "Scenery"
+      "collections": "Sceneries"
     },
    {
       "author": "Introdructor",
