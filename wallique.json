@@ -1,6 +1,13 @@
 [
   {
     "author": "Introdructor",
+    "name": "Simple Scenery",
+    "url": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/image_picker1018287040024449199.png",
+    "collections": "Sceneries",
+    "thumbnail": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/thumb_image_picker1018287040024449199.png"
+  },
+  {
+    "author": "Introdructor",
     "name": "Yellow Gradients",
     "url": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/image_picker4519299766167864394.png",
     "collections": "Gradients",
