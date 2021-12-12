@@ -1,6 +1,13 @@
 [
   {
     "author": "Introdructor",
+    "name": "Shape 1",
+    "url": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/image_picker3725391497222037376.png",
+    "collections": "Shapes",
+    "thumbnail": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/thumb_image_picker3725391497222037376.png"
+  },
+  {
+    "author": "Introdructor",
     "name": "Fluid",
     "url": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/image_picker3294860878556427494.png",
     "collections": "Fluids",
