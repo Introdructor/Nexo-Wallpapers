@@ -1,6 +1,13 @@
 [
   {
     "author": "Introdructor",
+    "name": "Scenery",
+    "url": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/image_picker6356930211915939201.png",
+    "collections": "Sceneries",
+    "thumbnail": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/thumb_image_picker6356930211915939201.png"
+  },
+  {
+    "author": "Introdructor",
     "name": "Wolf",
     "url": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/image_picker6088431176901584460.png",
     "collections": "Cute Animals",
