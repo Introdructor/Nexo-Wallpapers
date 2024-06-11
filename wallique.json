@@ -1,6 +1,13 @@
 [
   {
     "author": "Introdructor",
+    "name": "Scenery",
+    "url": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/image_picker5495599446624835615.png",
+    "collections": "Sceneries",
+    "thumbnail": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/thumb_image_picker5495599446624835615.png"
+  },
+  {
+    "author": "Introdructor",
     "name": "Duck",
     "url": "https://raw.githubusercontent.com/Introdructor/wallique_walls/main/image_picker6089744906260603665.png",
     "collections": "Views",
